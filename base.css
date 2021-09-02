@@ -1,14 +1,16 @@
 body {
-    background-color: powderblue;
+    background-color: #511281;
   }
-  
+  #ohlord {
+  border : 10px solid #21094E;
+  }
   h1 {
-    color: blue;
-    border: 5px dotted #FFAA05;
+    color: white;
+    border: 5px dotted #511281;
     border-width: 10px;
   }
   p {
-    color: red;
+    color: #4CA1A3;
     padding: 60px;
 
   }
@@ -17,4 +19,8 @@ body {
       margin-left: auto;
       margin-right: auto;
       width: 50%;
+  }
+  a {
+      color: #4CA1A3;
+      padding-left: 100px;
   }
